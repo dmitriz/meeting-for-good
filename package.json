@@ -117,7 +117,7 @@
     "url-loader": "^0.5.7",
     "webpack": "^2.5.1",
     "webpack-assets-manifest": "^0.6.2",
-    "webpack-bundle-analyzer": "^2.7.0",
+    "webpack-bundle-analyzer": "^2.13.1",
     "webpack-config": "^7.0.0",
     "write-file-webpack-plugin": "^4.0.0",
     "yargs": "^7.0.1"
