@@ -84,7 +84,7 @@
     "jstimezonedetect": "^1.0.6",
     "lodash": "^4.17.16",
     "material-ui": "^0.18.1",
-    "moment": "^2.18.1",
+    "moment": "^2.24.0",
     "moment-range": "^3.0.3",
     "mongoose": "^4.8.6",
     "morgan": "^1.8.2",
